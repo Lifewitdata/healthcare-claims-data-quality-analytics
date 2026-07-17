@@ -28,7 +28,7 @@ into trustworthy business KPIs.
 a real person, on purpose.
 
 > Built as a portfolio project for healthcare data analyst / claims data
-> engineering roles (e.g. Gainwell-style reference data + claims analytics
+> engineering roles (e.g.  reference data + claims analytics
 > work) using **only** Python, Pandas, MySQL, SQL, and Jupyter — no BI tools,
 > no ML.
 
