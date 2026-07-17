@@ -1,0 +1,114 @@
+cpt_code,cpt_description
+99201,"Office/outpatient visit new, straightforward"
+99202,"Office/outpatient visit new, low complexity"
+99203,"Office/outpatient visit new, moderate complexity"
+99204,"Office/outpatient visit new, moderate-high complexity"
+99205,"Office/outpatient visit new, high complexity"
+99211,"Office/outpatient visit established, minimal"
+99212,"Office/outpatient visit established, straightforward"
+99213,"Office/outpatient visit established, low complexity"
+99214,"Office/outpatient visit established, moderate complexity"
+99215,"Office/outpatient visit established, high complexity"
+99221,"Initial hospital care, low severity"
+99222,"Initial hospital care, moderate severity"
+99223,"Initial hospital care, high severity"
+99231,"Subsequent hospital care, stable"
+99232,"Subsequent hospital care, minor complication"
+99233,"Subsequent hospital care, unstable"
+99281,"Emergency department visit, minor"
+99282,"Emergency department visit, low to moderate"
+99283,"Emergency department visit, moderate"
+99284,"Emergency department visit, high severity"
+99285,"Emergency department visit, high severity/threat to life"
+99381,"Preventive visit, new patient, infant"
+99385,"Preventive visit, new patient, 18-39 years"
+99395,"Preventive visit, established patient, 18-39 years"
+99396,"Preventive visit, established patient, 40-64 years"
+99397,"Preventive visit, established patient, 65+ years"
+36415,Collection of venous blood by venipuncture
+71045,"Chest X-ray, single view"
+71046,"Chest X-ray, two views"
+71250,CT thorax without contrast
+72110,"X-ray lumbar spine, 4+ views"
+72148,MRI lumbar spine without contrast
+73030,"X-ray shoulder, complete"
+73721,MRI lower extremity joint without contrast
+74176,CT abdomen and pelvis without contrast
+74177,CT abdomen and pelvis with contrast
+76700,"Abdominal ultrasound, complete"
+76705,"Abdominal ultrasound, limited"
+76770,"Retroperitoneal ultrasound, complete"
+76856,"Pelvic ultrasound, complete"
+77067,"Screening mammography, bilateral"
+80048,Basic metabolic panel
+80053,Comprehensive metabolic panel
+80061,Lipid panel
+81001,Urinalysis with microscopy
+81002,Urinalysis without microscopy
+82947,"Glucose, blood quantitative"
+83036,Hemoglobin A1c
+84443,Thyroid stimulating hormone (TSH)
+85025,Complete blood count with differential
+85027,"Complete blood count, automated"
+86803,Hepatitis C antibody test
+87070,Bacterial culture
+87086,Urine bacterial culture
+87491,"Chlamydia trachomatis, amplified probe"
+87591,"Neisseria gonorrhoeae, amplified probe"
+87635,"SARS-CoV-2 detection, amplified probe"
+90471,"Immunization administration, one vaccine"
+90472,"Immunization administration, each additional vaccine"
+90658,"Influenza vaccine, injectable"
+90715,Tdap vaccine
+90732,Pneumococcal vaccine
+90791,Psychiatric diagnostic evaluation
+90792,Psychiatric diagnostic evaluation with medical services
+90832,"Psychotherapy, 30 minutes"
+90834,"Psychotherapy, 45 minutes"
+90837,"Psychotherapy, 60 minutes"
+92014,"Eye exam, established patient, comprehensive"
+92557,Comprehensive hearing test
+93000,"Electrocardiogram, complete"
+93010,"Electrocardiogram, interpretation only"
+93306,"Echocardiography, complete"
+93880,Duplex scan of carotid arteries
+94010,Spirometry
+94060,Bronchodilation responsiveness test
+94640,Nebulizer treatment
+94664,Inhaler demonstration
+95810,"Polysomnography, sleep study"
+96116,Neurobehavioral status exam
+96372,"Therapeutic injection, subcutaneous/intramuscular"
+97110,Therapeutic exercise
+97112,Neuromuscular reeducation
+97140,Manual therapy techniques
+97161,"Physical therapy evaluation, low complexity"
+97162,"Physical therapy evaluation, moderate complexity"
+97535,Self-care/home management training
+99050,Services after posted office hours
+99070,Supplies and materials provided by physician
+99091,Collection and interpretation of physiologic data
+99406,"Smoking cessation counseling, 3-10 minutes"
+99490,"Chronic care management, first 20 minutes"
+99495,"Transitional care management, moderate complexity"
+11042,"Debridement, subcutaneous tissue"
+11720,"Debridement of nail, 1-5"
+12001,"Simple repair of superficial wounds, 2.5cm or less"
+12031,Layer closure of wounds
+17000,"Destruction of premalignant lesion, first lesion"
+20610,"Arthrocentesis, aspiration and/or injection, major joint"
+29125,Application of short arm splint
+29881,Knee arthroscopy with meniscectomy
+43239,Upper GI endoscopy with biopsy
+45378,"Colonoscopy, diagnostic"
+45380,Colonoscopy with biopsy
+47562,Laparoscopic cholecystectomy
+58150,Total abdominal hysterectomy
+59400,"Routine obstetric care, vaginal delivery"
+59510,"Routine obstetric care, cesarean delivery"
+62323,Lumbar epidural injection
+64483,Lumbar transforaminal epidural injection
+66984,Cataract surgery with IOL insertion
+69210,Removal of impacted cerumen
+27447,Total knee arthroplasty
+27130,Total hip arthroplasty

@@ -1,0 +1,16 @@
+plan_id,plan_name,plan_type
+PLN001,BluePath HMO,HMO
+PLN002,BluePath PPO,PPO
+PLN003,SilverCross EPO,EPO
+PLN004,SilverCross POS,POS
+PLN005,MediCare Advantage Plus,Medicare
+PLN006,MediCare Advantage Standard,Medicare
+PLN007,StateAid Medicaid,Medicaid
+PLN008,StateAid Medicaid Managed,Medicaid
+PLN009,Horizon HDHP Bronze,HDHP
+PLN010,Horizon HDHP Silver,HDHP
+PLN011,Summit PPO Gold,PPO
+PLN012,Summit PPO Platinum,PPO
+PLN013,ValleyHealth HMO,HMO
+PLN014,ValleyHealth EPO,EPO
+PLN015,Guardian POS,POS
